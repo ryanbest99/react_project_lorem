@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+}
+
+body {
+  background: #b7d3b3;
+  border: 3px solid red;
+}
+
+article {
+  border: 3px solid blue;
+  max-width: 1172px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+h1 {
+  margin: 2rem auto;
+}
+
+p {
+  margin-top: 1rem;
+}
